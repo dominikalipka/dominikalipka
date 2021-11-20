@@ -4,16 +4,12 @@ I’m Dominika and I'm a full-stack web developer.
 
 
 ## Technologies & Tools:
-Languages: JavaScript | CSS | HTML
-
-Libraries: React
-
-Frameworks: Express (Handlebars) | Bootstrap
-
+Languages: JavaScript | CSS | HTML <br />
+Libraries: React <br />
+Frameworks: Express (Handlebars) | Bootstrap <br />
 Databases: MongoDB (+ Mongoose)
 
 
 ##
-[🤝 Let's connect via LinkedIn!](https://www.linkedin.com/in/dominika-lipka/) 
-
+[🤝 Let's connect via LinkedIn!](https://www.linkedin.com/in/dominika-lipka/) <br />
 📫 Let's stay in touch: dominika.lipka.linkedin@gmail.com
