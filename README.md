@@ -20,6 +20,6 @@ Backend:
 
 
 ##
-[CHECK OUT MY PORTFOLIO](https://d-lipka-portfolio.netlify.app/) <br />
+👉[CHECK OUT MY PORTFOLIO](https://d-lipka-portfolio.netlify.app/)👈 <br />
 [🤝 Let's connect via LinkedIn!](https://www.linkedin.com/in/dominika-lipka/) <br />
 📫 Let's stay in touch: dominika.lipka.linkedin@gmail.com
