@@ -8,6 +8,10 @@ Currently I'm concentrated on broadening my knowledge of front-end - I'm learnin
 <br />
 <br />
 
+<img align="right" alt="idea" src="https://github.com/dominikalipka/dominikalipka/blob/main/idea.jpg"  height="500" />
+
+<div align='center' >
+
 ### Technologies & Tools:
 
 Frontend: <br />
@@ -22,15 +26,16 @@ Backend:
 <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />
 <img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />
 
-
-
-###
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/dominika-lipka)
- 👉
-[![Website Badge](https://img.shields.io/badge/Portfolio-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://d-lipka-portfolio.netlify.app)
-👈
-<br />📫 Let's stay in touch: dominika.lipka.linkedin@gmail.com
-
 <br />
+ 
+### Let's stay in touch!
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/dominika-lipka) <br />
+ 👉
+[PORTFOLIO](https://d-lipka-portfolio.netlify.app)
+👈
+<br />📫 dominika.lipka.linkedin@gmail.com
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dominikalipka&theme=dark)](https://github.com/dominikalipka)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dominikalipka&theme=dark)](https://github.com/dominikalipka) -->
+
+
