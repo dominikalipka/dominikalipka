@@ -13,7 +13,7 @@ Currently I'm concentrated on broadening my knowledge of front-end - I'm learnin
 <br />
 <br />
 
-<img align="right" alt="idea" src="https://github.com/dominikalipka/dominikalipka/blob/main/background.jpg"  height="400" />
+<img align="right" alt="idea" src="https://github.com/dominikalipka/dominikalipka/blob/main/Octocat.png"  height="400" />
 
 <div align='center' >
 
