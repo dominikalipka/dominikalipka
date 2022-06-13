@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I’m Dominika and I'm a full-stack web developer. </h1>
+<h1 align='center'> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I’m Dominika and I'm a full-stack web developer. </h1>
 
 <br />
 I'm a web developer who's focused on learning constantly. I have decided to switch career because although I enjoyed my previous positions, I was missing the spark, this drive that keeps you going further and further. And, with first JavaScript tutorial watched, I knew I'm on a right path. 
