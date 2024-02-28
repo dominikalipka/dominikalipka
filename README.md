@@ -1,10 +1,7 @@
-<h1 align='center'> Hi there! I’m Dominika and I'm a full-stack web developer. </h1>
+<h1 align='center'> Hi there! I’m Dominika and I'm a full-stack developer. </h1>
 
 <br />
-I'm a web developer who's focused on learning constantly. I have decided to switch career because although I enjoyed my previous positions, I was missing the spark, this drive that keeps you going further and further. And, with first JavaScript tutorial watched, I knew I'm on a right path. 
-<br />
-<br />
-Currently I'm concentrated on broadening my knowledge of front-end - I'm learning Redux and TypeScript and I'm planning to learn React Native. Feel free to check out my projects - I would love to hear your feedback!
+I'm a developer who's focused on learning constantly. I have decided to switch career because although I enjoyed my previous positions, I was missing the spark, this drive that keeps you going further and further. And, with first JavaScript tutorial watched, I knew I'm on a right path. 
 <br />
 <br />
 <div align='center' >
